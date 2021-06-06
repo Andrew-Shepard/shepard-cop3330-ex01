@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/*
+ *  UCF COP3330 Summer 2021 Assignment 1 Solution
+ *  Copyright 2021 Andrew Shepard
+ */
 //https://i.imgur.com/SCUizVa.png
 public class main {
     public static void main(String[] args) {
